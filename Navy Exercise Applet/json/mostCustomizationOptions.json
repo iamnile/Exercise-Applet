@@ -1,0 +1,9 @@
+[
+	{
+		"name": "dataStoreKey",
+		"value": "DEFAULT",
+		"helpText": "This is the key for the data storage. Change this to allow more than one of these applets per app.",
+		"title": "Data Key",
+		"type": "textbox"
+	}
+]

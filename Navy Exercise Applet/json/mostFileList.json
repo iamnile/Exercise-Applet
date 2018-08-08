@@ -1,0 +1,14 @@
+[
+    "applet.js",
+    "base.css",
+    "index.html",
+    "IOSBridge.js",
+    "jquery-2.1.0.min.js",
+    "mostConfig.json",
+    "mostCustomizationOptions.json",
+    "mostCustomizations.json",
+    "mostHelp.js",
+    "onload.js",
+    "style.css",
+    "utils.js"
+]

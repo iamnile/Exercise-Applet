@@ -1,0 +1,33 @@
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\ApplicationInsights.config
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\roslyn\csc.exe
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\roslyn\vbc.exe
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\roslyn\VBCSCompiler.exe
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Navy Exercise Applet.dll.config
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Navy Exercise Applet.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Navy Exercise Applet.pdb
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Microsoft.AI.Web.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Microsoft.AI.WindowsServer.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Microsoft.ApplicationInsights.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Microsoft.AI.Web.xml
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Microsoft.AI.WindowsServer.xml
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Microsoft.ApplicationInsights.xml
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\obj\Debug\Navy Exercise Applet.csprojResolveAssemblyReference.cache
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\obj\Debug\Navy Exercise Applet.dll
+c:\users\nile\documents\visual studio 2015\Projects\Navy Exercise Applet\Navy Exercise Applet\obj\Debug\Navy Exercise Applet.pdb

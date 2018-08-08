@@ -1,0 +1,10 @@
+{
+	"title": "Base Applet",
+	"description": "Basic structure required to create an applet.",
+	"version": 0.0,
+	"publisher": "Mobile Smith",
+	"changelog": "Under Development",
+	"hasrequiresdata": false,
+	"author": "kjersti.kyle@mobilesmith.com",
+	"zipfile": "../baseApplet.zip"
+}
